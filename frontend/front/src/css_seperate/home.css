@@ -1,0 +1,38 @@
+.container1 {
+    position: relative;
+}
+
+.text-block {
+    position: absolute;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(16, 84, 211);
+    bottom: 550px;
+    right: 35px;
+    font-size: 35px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.text-block1 {
+    position: absolute;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(253, 94, 2);
+    bottom: 475px;
+    right: 95px;
+    font-size: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+p {
+    display: inline;
+}
+
+.button1 {
+    position: absolute;
+    bottom: 360px;
+    right: 375px;
+    font-size: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
